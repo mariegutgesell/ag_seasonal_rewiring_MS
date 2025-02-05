@@ -1,0 +1,22 @@
+﻿Site_Code,Month,Algae Coverage (%),Algae Coverage Category Midpoint
+HC,May,40-60,50
+HC,June,0-20,10
+HC,July,,
+HC,August,0-20,10
+HC,September,0-20,10
+HC,October,0-20,10
+HC,November,0-20,10
+EP4,May,20-40,30
+EP4,June,20-40,30
+EP4,July,0-20,10
+EP4,August,40-60,50
+EP4,September,20-40,30
+EP4,October,20-40,30
+EP4,November,0-20,10
+AT,May,40-60,50
+AT,June,60-100,80
+AT,July,40-60,50
+AT,August,60-100,80
+AT,September,0-20,10
+AT,October,,
+AT,November,,
